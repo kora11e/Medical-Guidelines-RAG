@@ -1,6 +1,6 @@
 ## RAG Project 
 
-A Retrieval-Augmented Generation (RAG) system for answering medical questions using PDF medical guidelines. The system retrieves relevant document fragments and uses the Bielik-11B-v3.0-Instruct LLM to generate answers grounded in those documents.
+A Retrieval-Augmented Generation (RAG) system for answering medical questions using PDF medical guidelines. The system retrieves relevant document fragments and uses the Bielik-11B-v3.0-Instruct LLM to generate answers grounded in those [documents](https://ptkardio.pl/wytyczne). 
 
 Overview
 
