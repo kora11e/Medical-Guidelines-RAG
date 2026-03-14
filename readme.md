@@ -35,7 +35,7 @@ speakleash/Bielik-11B-v3.0-Instruct
 
 Polish instruction-tuned LLM loaded in 4-bit quantization using BitsAndBytes. Generates final answers using retrieved context.
 
-Project Pipeline
+## Project Pipeline
 1. PDF Loading
 
 The system reads all PDF files from a dataset directory and extracts text.
@@ -118,7 +118,7 @@ TOP_K = 3
 
 Retrieved chunks are combined into a prompt that instructs the model to answer only using provided context.
 
-Example prompt:
+## Example prompt:
 
 You are a medical assistant.
 Answer only based on the provided context.
